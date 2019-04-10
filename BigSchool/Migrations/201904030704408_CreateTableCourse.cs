@@ -2,6 +2,7 @@ namespace BigSchool.Migrations
 {
     using System;
     using System.Data.Entity.Migrations;
+    //commit
     
     public partial class CreateTableCourse : DbMigration
     {
